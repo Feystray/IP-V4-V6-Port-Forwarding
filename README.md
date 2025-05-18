@@ -1,2 +1,5 @@
 # IP-V4-V6-Port-Forwarding
-It forwards ipv4 port to a ipv6 port to skip cgnet
+It forwards an ipv4 port to ipv6 using nginx reverse proxy.
+
+> I don't know the real use case but I use it to expose my lan minecraft server to public.
+
